@@ -22,21 +22,21 @@ theme_name: bluegreen
 # theme: jekyll-theme-bluegreen-0.1.1
 author: Björn Kawecki
 
-title: Tilly Bleen | Blog & Projects
-subtitle: Full Stack Cat
-name: Tilly Bleen
+title: Praveen Vishwakarma | Blog & Projects
+subtitle: Software Engineer | AI 
+name: Praveen Vishwakarma
 
-email: tbleen@catmail.org
-description: Blog, Projects, About me
-url: "https://bjkawecki.github.io" 
-baseurl: "/jekyll-theme-bluegreen"  
+email: praveen.v250919@gmail.com
+description: About me, Blog, Projects
+url: "https://Praveen_portfolio.github.io" 
+baseurl: "/Praveen_portfolio.github.io"  
 twitter_username:
-github_username: tbleen
-linkedin_username: tbleen
+github_username: 
+linkedin_username: 
 
 plugins:
   - jekyll-feed
-  - jekyll-postcss
+  #- jekyll-postcss
   - jekyll-paginate
 
 postcss:

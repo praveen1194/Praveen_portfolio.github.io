@@ -11,13 +11,11 @@
     </div>
     <div class="flex justify-center mb-6 space-x-2">
         <a href="{{ site.baseurl }}/"
-            class="{% if page.url == '/' or page.url contains '/page' %}font-bold {% endif %}text-blue2-600 dark:text-emerald-500 hover:underline">Weblog</a><span>&middot;</span>
+            class="{% if page.url == '/' or page.url contains '/page' %}font-bold {% endif %}text-blue2-600 hover:underline dark:text-emerald-500">About me</a><span>&middot;</span>
+        <a href="{{ site.baseurl }}/blog/"
+            class="{% if page.url == '/blog/' %}font-bold {% endif %}text-blue2-600 dark:text-emerald-500 hover:underline">Weblog</a><span>&middot;</span>
         <a href="{{ site.baseurl }}/projects/"
             class="{% if page.url == '/projects/' %}font-bold {% endif %}text-blue2-600 hover:underline dark:text-emerald-500">Projects</a>
-        <span>&middot;</span>
-        <a href="{{ site.baseurl }}/about/"
-            class="{% if page.url == '/about/' %}font-bold {% endif %}text-blue2-600 hover:underline dark:text-emerald-500">About
-            me</a>
     </div>
     {% include footer.html %}
 </aside>

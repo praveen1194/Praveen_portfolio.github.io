@@ -1,14 +1,16 @@
 ---
 layout: blog
+title: blog
+permalink: "/blog/"
 ---
 
 <h1 class="px-4">Weblog</h1>
 {% assign psize = site.posts | size %}
 {% if psize == 0 %}
-Kein Einträge vorhanden.
+No entries available.
 {% else %}
 <div class="flex flex-col space-y-5">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
     <a href="{{ post.url | prepend:site.baseurl }}">
         <div class="dark:hover:bg-zinc-800 hover:bg-gray-100 py-4 px-4 rounded">
             <h6>{{ post.date | date: "%d.%m.%Y" }} | {{ post.category | capitalize }}</h6>
