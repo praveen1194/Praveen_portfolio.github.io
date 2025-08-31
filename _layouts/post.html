@@ -7,11 +7,11 @@
         <div class="flex flex-col justify-center mt-10 space-x-0 md:space-x-10">
             <div
                 class="prose-a:text-blue2-600 dark:prose-a:dark:text-emerald-500 prose-a:font-semibold prose-a:underline prose-h1:mt-3 prose-headings:text-gray-700 prose-headings:font-bold prose-h4:font-medium prose-p:text-lg prose-sm md:prose prose-a:text-base prose-li:text-lg dark:prose-headings:text-gray-200 dark:prose-ul:text-gray-200 dark:prose-ol:text-gray-200 dark:prose-p:text-gray-200">
-                {% include header.html link="/" %}
+                {% include header.html link="/blog/" %}
                 <h4>{{ page.date | date: "%d.%m.%Y" }} | {{ page.category }}</h4>
                 <h1>{{ page.title }}</h1>
                 {{ content }}
-                {% include post_pagination.html %}
+                <!--{% include post_pagination.html %}-->
                 {% include footer.html %}
             </div>
         </div>

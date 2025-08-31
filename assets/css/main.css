@@ -1344,6 +1344,10 @@ video {
   display: flex;
 }
 
+.table {
+  display: table;
+}
+
 .h-48 {
   height: 12rem;
 }
