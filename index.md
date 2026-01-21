@@ -17,6 +17,16 @@ title: About me
 
 ## Certifications
 <div style="display: flex; gap: 16px;">
-	<img src="{{ site.baseurl }}/assets/img/PFQ.png" alt="Associate of Project Management - Project Fundamentals Qualification(PFQ)" title="Associate of Project Management - Project Fundamentals Qualification(PFQ)" width="120" />
-	<img src="{{ site.baseurl }}/assets/img/OCAJP.png" alt="Oracle University - Oracle Certified Associate Java Programmer(OCAJP)" title="Oracle University - Oracle Certified Associate Java Programmer(OCAJP)" width="120" />
+	<a href="https://www.credly.com/badges/dce42f81-261f-47ad-b571-8af566314527/public_url" target="_blank">
+		<img src="{{ site.baseurl }}/assets/img/PFQ.png" alt="Associate of Project Management - Project Fundamentals Qualification(PFQ)" title="Associate of Project Management - Project Fundamentals Qualification(PFQ)" width="120" />
+	</a>
+	<a href="https://www.credly.com/badges/69d73fd0-0806-434a-931f-9e5bee6026cc/public_url" target="_blank">
+		<img src="{{ site.baseurl }}/assets/img/OCAJP.png" alt="Oracle University - Oracle Certified Associate Java Programmer(OCAJP)" title="Oracle University - Oracle Certified Associate Java Programmer(OCAJP)" width="120" />
+	</a>
+	<a href="https://www.credly.com/badges/bf9e51db-736a-44e4-be80-853c66c2da50/public_url" target="_blank">
+		<img src="{{ site.baseurl }}/assets/img/mckinsey-org-forward-program.png" alt="McKinsey.org Forward Program" title="McKinsey.org Forward Program" width="120" />
+	</a>
+	<a href="https://bsi.my.salesforce-sites.com/training/certificateVerification?shareId=0f3f5503f5c2eeecd796e23163a5b24544381069" target="_blank">
+		<img src="{{ site.baseurl }}/assets/img/ISO_42001_logo.png" alt="Lead Implementor for AI Management System (AIMS) ISO/IEC 42001:2023 – British Standards Institution (BSI)" title="Lead Implementor for AI Management System (AIMS) ISO/IEC 42001:2023 – British Standards Institution (BSI)" width="120" />
+	</a>
 </div>
