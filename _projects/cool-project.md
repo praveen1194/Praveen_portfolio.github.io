@@ -8,7 +8,7 @@ status: deployed
 uri: https://example.com
 uri_h: example.com
 category: project
-techstack: jekyll
+techstack: Kaggle, Python, numpy, pandas, geopandas, matplotlib, seaborn
 ---
 
 Online: [{{ page.uri_h }}]({{ page.uri }})
