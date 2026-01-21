@@ -5,7 +5,7 @@ title: About me
 # {{ page.title }}
 
 ### Software engineer with over five years of experience in consulting, research and building scalable, practical solutions. My work spans software development, AI integration, and digital transformation — often in collaborative, cross-functional environments. I enjoy solving complex problems, learning new technologies, and contributing to projects that have a real-world impact. I'm currently focused on using my skills to help businesses innovate efficiently and sustainably.
-<br/>
+
 
 ## My Skillsets
 
